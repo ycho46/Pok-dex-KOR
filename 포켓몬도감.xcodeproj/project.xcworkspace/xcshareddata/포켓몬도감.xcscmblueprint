@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "417DC69641BD466BB52B6E6C59E61E3F5E189A12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "742D5461E973C41D1D6AA44373F05188EAF8231E" : 0,
+    "417DC69641BD466BB52B6E6C59E61E3F5E189A12" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "71B4FA77-4927-4D05-9A09-7B8A46307140",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "742D5461E973C41D1D6AA44373F05188EAF8231E" : "",
+    "417DC69641BD466BB52B6E6C59E61E3F5E189A12" : "%E1%84%91%E1%85%A9%E1%84%8F%E1%85%A6%E1%86%BA%E1%84%86%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%E1%84%80%E1%85%A1%E1%86%B7\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "포켓몬도감",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "포켓몬도감.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ycho46\/Pok-dex-KOR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "417DC69641BD466BB52B6E6C59E61E3F5E189A12"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ycho46.github.io",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "742D5461E973C41D1D6AA44373F05188EAF8231E"
+    }
+  ]
+}
